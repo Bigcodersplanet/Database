@@ -1,10 +1,7 @@
-👋👋👋 Here you can get some inspiration for objects that we can definitely use for Empluna. Feel free to visit from time to time.
-
+👋👋👋 Here you can get some inspiration for objects that we can definitely use for Empluna. Feel free to visit from time to time. 
 These are just suggestions - there is room for so much more in the open source database
 
 ---
-
-
 
 🏙️ **Buildings**
 
@@ -31,8 +28,6 @@ These are just suggestions - there is room for so much more in the open source d
 - 🏭 Industry
   
   - Forester's House, Sawmill, Cement factory, Highodes (steel indusrty), Reinforced concrete factory, Machinery factory, Semiconductor factory, Electrical factory, Glass factory, Oil ruffle aria, Plastics factory
-
-
 
 **Objects**
 
