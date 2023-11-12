@@ -1,7 +1,7 @@
 👋👋👋 Here you can get some inspiration for objects that we can definitely use for Empluna. Feel free to visit from time to time. 
 These are just suggestions - there is room for so much more in the open source database
 
-Do you have any other ideas? Write to us using the contact form. Bla
+Do you have any other ideas? Write to us using the contact form. Blaec
 
 ---
 
