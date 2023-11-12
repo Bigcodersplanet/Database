@@ -40,3 +40,7 @@ Do you have any other ideas? Write to us using the contact form.
 - 🐎 Objects for animal stables
   
   - Animals, Enclosures, ...
+
+- ⚙️ Industry
+  
+  - Machines
